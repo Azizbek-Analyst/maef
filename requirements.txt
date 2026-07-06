@@ -1,7 +1,7 @@
 # MAEF — memory-effect AI-safety alignment eval
-# Install:  pip install -r memory_safety_alignment.txt
+# Install:  pip install -r requirements.txt
 
-# --- LLM providers (3 subject models + judge) ---
+# --- LLM providers (4 subject models + judge) ---
 langchain-core>=1.4.8
 langgraph>=1.2.7
 langchain-anthropic>=1.4.8
