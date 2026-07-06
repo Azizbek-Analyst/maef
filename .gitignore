@@ -1,0 +1,15 @@
+# secrets
+.env
+.env.*
+!env.example
+
+# eval artifacts
+results/
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os
+.DS_Store

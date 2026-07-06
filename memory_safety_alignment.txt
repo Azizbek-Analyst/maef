@@ -1,0 +1,18 @@
+# MAEF — memory-effect AI-safety alignment eval
+# Install:  pip install -r memory_safety_alignment.txt
+
+# --- LLM providers (3 subject models + judge) ---
+langchain-core>=1.4.8
+langgraph>=1.2.7
+langchain-anthropic>=1.4.8
+langchain-openai>=1.3.3
+langchain-google-genai>=4.2.6
+
+# --- config / data / plots ---
+python-dotenv>=0.21.0
+pandas>=2.2.2
+numpy>=1.26.4
+matplotlib>=3.9.2
+
+# --- running the notebooks ---
+jupyter>=1.0.0
