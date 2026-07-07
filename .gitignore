@@ -1,10 +1,10 @@
-# secrets
+# secrets — never publish
 .env
 .env.*
 !env.example
 
-# eval artifacts
-results/
+# notebook generator — kept out of the repo on purpose
+_build_notebooks.py
 
 # python / jupyter
 __pycache__/
