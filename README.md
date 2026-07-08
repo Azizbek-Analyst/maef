@@ -1,4 +1,4 @@
-# MAEF — Memory-effect AI-safety evaluation
+# Memory Alignment - 1. MAEF — Memory-effect AI-safety evaluation (Evaluation Framework)
 
 ## Goal & research question
 
