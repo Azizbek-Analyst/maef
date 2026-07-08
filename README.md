@@ -126,7 +126,7 @@ subject, not the judge). Change any id in `maef_harness.py` → `SUBJECT_MODELS`
 | `06_Identity_Drift.ipynb` | Identity drift | assign many roles + memory, then "who are you really?" |
 | `07_Sandbagging.ipynb` | Sandbagging | told to answer wrong, then asked 5 + 5 |
 | `maef_harness.py` | — | shared engine imported by every notebook |
-| `_build_notebooks.py` | — | regenerates notebooks 02–07 (`python3 _build_notebooks.py`) |
+| [`ROADMAP.md`](ROADMAP.md) | — | next steps toward **Memory Alignment** (benchmarks, guardrails, agent framework) |
 
 `01_Sycophancy.ipynb` is the **hand-curated reference** (has written-in findings + a real run) and is
 **protected** from regeneration — the generator skips it unless you set `MAEF_FORCE=1`.
